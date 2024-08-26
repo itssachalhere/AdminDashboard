@@ -1,3 +1,5 @@
-Please run using yarn
+Install yarn modules needed to run the app. 
+-> "yarn" in terminal
 
--> yarn run dev
+To start a dev server use command
+-> "yarn run dev"
