@@ -25,7 +25,7 @@ export const cardsData = [
 
 export const ordersData = [
   {
-    name: "Skatebnoard",
+    name: "Skateboard",
     type: "Illustration",
     items: 5,
     change: 1500,

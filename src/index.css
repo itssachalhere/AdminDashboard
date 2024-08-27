@@ -25,7 +25,7 @@ body {
   background-color: var(--black);
   color: white;
   font-family: "Public Sans", sans-serif;
-  overflow: scroll;
+  overflow: hidden;
 }
 
 .theme-container {
